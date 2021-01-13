@@ -30,8 +30,6 @@ Build a React application that allows creating users with name and friends (frie
 
 ## Bonus point (optional)
 
-consider these ONLY after the logic is already working
-
 - Style the UI to be pleasant according to your taste
 - Use a css-in-js solution to do the styling such as [emotion](https://emotion.sh/)
 
