@@ -22,6 +22,7 @@ Build a React application that allows creating users with name and friends (frie
 
 ## constrains
 
+- use TypeScript
 - a user creation or user update can randomly fail.
 - if creation fails, try again without the user knowing
 - if creation fails two times in a row inform the user that something went wrong and show a button that allows for a retry
@@ -31,7 +32,6 @@ Build a React application that allows creating users with name and friends (frie
 
 consider these ONLY after the logic is already working
 
-- Use TypeScript
 - Style the UI to be pleasant according to your taste
 - Use a css-in-js solution to do the styling such as [emotion](https://emotion.sh/)
 
