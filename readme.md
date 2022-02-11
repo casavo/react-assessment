@@ -8,7 +8,7 @@ Evaluate the implementation of concepts related to component-based architectures
 
 ![schema](schema.jpg)
 
-Build a React application that allows creating users with name and friends (friends are also users) with the following:
+Build an application that allows creating users with name and friends (friends are also users) with the following:
 
 - A page that lists all users and links to a user detail page and to a "create user" page (1 in the schema)
 - A page to create a new user (2 in the schema)
